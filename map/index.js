@@ -1,6 +1,6 @@
 const citiesDiv = document.querySelector("#cities");
 
-const cityReports = [
+let cityReports = [
   {
     id: 2208791,
     name: "Yafran",
